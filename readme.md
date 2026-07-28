@@ -2,6 +2,6 @@
 002 testes para aula
 003 mais informações incluídas no arquivo
 004 Foram incluídas ainda mais infos
-005 nova alteração realizada no arquivo
-006 move 1 to ws-teste-git
-007 move 0 to ws-teste-github
+005 move spaces to ws-flag-git
+006 move 1      to ws-teste-git
+007 move 0      to ws-teste-github
