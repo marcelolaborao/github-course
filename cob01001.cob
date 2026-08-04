@@ -28,7 +28,7 @@
            MOVE    0      TO WS-TESTE-GITHUB
 
            PERFORM R0002-LOOP THRU R0002-LOOP-FIM UNTIL WS-IND > 9
-           
+
            PERFORM R999-FINAL-PROG.
        
        R0001-FIM.    
@@ -39,5 +39,6 @@
        R0002-LOOP-FIM.
 
        R9999-FINAL.
+           DISPLAY   "Fim do processamento!"
            EXIT      PROGRAM.
            STOP      RUN.
