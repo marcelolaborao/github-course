@@ -9,3 +9,5 @@
 009 move 1      to ws-teste-git
 010 ** teste para desfazer commit
 011 move "s"    to ws-flag-git
+012 ** teste 06/08/2026
+013 move "x"    to ws-flag-git
