@@ -13,3 +13,4 @@
 013 move "x"    to ws-flag-git
 014 move "executando git stach..." to ws-comando
 015 move "criando TAGs"            to ws-comando
+016 move "get revert"              to ws-comando
