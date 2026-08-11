@@ -11,4 +11,5 @@
 011 move "s"    to ws-flag-git
 012 ** teste 06/08/2026
 013 move "x"    to ws-flag-git
-014 move "git stach" to ws-comando
+014 move "executando git stach..." to ws-comando
+015 move "criando TAGs"            to ws-comando
